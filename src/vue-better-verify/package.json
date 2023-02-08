@@ -1,0 +1,53 @@
+{
+  "_from": "vue-better-verify",
+  "_id": "vue-better-verify@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-yr44G7f/8vC5TueZtuFLAM2QRIASlz3UgAY4o9q5LmyaAkxdRp+gYRfV1pZVYXmo53tf1oc/b0z+S04ya16iRA==",
+  "_location": "/vue-better-verify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-better-verify",
+    "name": "vue-better-verify",
+    "escapedName": "vue-better-verify",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-better-verify/-/vue-better-verify-1.0.1.tgz",
+  "_shasum": "474a518e45aa085872d708d5500c728b3a981470",
+  "_spec": "vue-better-verify",
+  "_where": "D:\\workspace\\exsystem_wallet",
+  "author": {
+    "name": "Autumn-one"
+  },
+  "bugs": {
+    "url": "https://github.com/Autumn-one/vue-verify/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "一个基于 vue 的验证插件 支持必填项 验证临时跳过等功能",
+  "homepage": "https://github.com/Autumn-one/vue-verify#readme",
+  "keywords": [
+    "vue",
+    "vue-better-verify",
+    "vue-verify",
+    "vue表单验证"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "vue-better-verify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Autumn-one/vue-verify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
